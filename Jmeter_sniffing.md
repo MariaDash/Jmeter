@@ -14,3 +14,4 @@
 Go to Settings --> General --> Network Settings --> Settings ( open it) --> click Radiobutton Manual Proxy Configuration Check for `local host` and port `8888` written there. Put a tick at Also use for HTTPS  --> OK.
 
 Go to Privacy & Security --> Certificates --> View Certificates--> lokk for `Authorities` --> import --> import Jmeter certificate from the folder --> Trust, trust two times check in checkboxes --> OK.
+## 
