@@ -15,9 +15,10 @@ To create `Thread Group` do right mouse click on `Test Plan`--> `Add` --> `Threa
 + `Port Number`
 + `Method`
 + `Path`
++ `Add Parameters` if you want to add some parameters
 ## 5. When everything added --> push `run` button.
 ## 6. When everything done push `stop` button.
-## To see `analytics`:
+## 7. To see `analytics`:
 + Right mouse click on `Thread Group`--> `Add` --> `Listener` --> `View Result Tree`
 + Right mouse click on `Thread Group`--> `Add` --> `Listener` --> `Summary Report`
 + Right mouse click on `Thread Group`--> `Add` --> `Listener` --> `View Results in table`
