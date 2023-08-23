@@ -20,3 +20,7 @@ To create `Thread Group` do right mouse click on `Test Plan`--> `Add` --> `Threa
 + Right mouse click on `Thread Group`--> `Add` --> `Listener` --> `View Result Tree`
 + Right mouse click on `Thread Group`--> `Add` --> `Listener` --> `Summary Report`
 + Right mouse click on `Thread Group`--> `Add` --> `Listener` --> `View Results in table`
+### In `View Result tree` we can see the result of request and its request ans response data
+### In `View Results in Table` we can see a table with additional information about request.
+### In `Summary Report` we can see the report and save it.
+## Note! If you want your request to be counted in analytics, put them `higher` in a Test Plan tree than `statistics counters`
