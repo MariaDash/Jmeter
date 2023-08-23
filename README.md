@@ -15,8 +15,9 @@ To create `Thread Group` do right mouse click on `Test Plan`--> `Add` --> `Threa
 + `Port Number`
 + `Method`
 + `Path`
-+ `Add Parameters` if you want to add some parameters to `GET` request
-+ `Add Parameters`and put a `tick` to `Use multipart/form data` if you want to add some parameters to `POST` request in `form data`
++ Add `Parameters` if you want to add some parameters to `GET` request
++ Add `Parameters`and put a `tick` to `Use multipart/form data` if you want to add some parameters to `POST` request in `form data`
++ ` Body Data` in `JSON` if you want to add body request in json format  for POST request
 ## 5. When everything added --> push `run` button.
 ## 6. When everything done push `stop` button.
 ## 7. To see `analytics`:
@@ -27,4 +28,9 @@ To create `Thread Group` do right mouse click on `Test Plan`--> `Add` --> `Threa
 ### In `View Results in Table` we can see a table with additional information about request.
 ### In `Summary Report` we can see the report and save it.
 ### For clearing Statistics use `Brush` button.
-## Note! If you want your request to be counted in analytics, put them `higher` in a Test Plan tree than `statistics counters`
+### Note! If you want your request to be counted in analytics, put them `higher` in a Test Plan tree than `statistics counters`
+### Analysing summary report:
++ if Error% is less than 3% - server is Ok.
++ if Error% is in between 3 and 5 % - it is an error there you should work in here
++ if Error% is more than 5% - server is in danger, big problem here.
+  
