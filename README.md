@@ -1,5 +1,4 @@
-# Jmeter Homework
-## Common features:
+# Jmeter Common features:
 ## 1. Open `jmeter.bat` file to open Jmeter.
 ## 2. Threade Group
 To create `Thread Group` do right mouse click on `Test Plan`--> `Add` --> `Threade (Users)` --> `Thread Group`
@@ -34,3 +33,59 @@ To create `Thread Group` do right mouse click on `Test Plan`--> `Add` --> `Threa
 + if Error% is in between 3 and 5 % - it is an error there you should work in here
 + if Error% is more than 5% - server is in danger, big problem here.
   
+# Jmeter - HW_1
++ Make a script with listed endpoints
++ Give a load of 50, 250, 500 threads.
++ Jmeter settings, upload the .jmx file to git.
+
+http://5.75.203.123:5005
+
+1) http://5.75.203.123:5005/get_method
+req.
+GET
+name: str
+age: int
+
+
+2) http://5.75.203.123:5005/user_info_2
+req.
+POST
+name: str
+age: int
+salary: int
+
+
+3) http://5.75.203.123:5005/user_info_3
+req.
+POST
+name: str
+age: int
+salary: int
+
+4) http://5.75.203.123:5005/object_info_1
+req.
+GET
+name: str
+age: int
+weight: int
+
+5) http://5.75.203.123:5005/object_info_2
+req.
+GET
+name: str
+age: int
+salary: int
+
+6) http://5.75.203.123:5005/object_info_3
+req.
+GET
+name: str
+age: int
+salary: int
+
+7) http://5.75.203.123:5005/object_info_4
+req.
+GET
+name: str
+age: int
+salary: int
