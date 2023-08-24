@@ -1,5 +1,5 @@
 # Jmeter Scripts
-## We Will work with Java Groovy Language
+## We will work with Java Groovy Language
 ### Creating first HTTP request with variables and environment
 1. Open Test Plan
 2. Create  HTTP Request Defaults add ip:`5.75.203.123 ` and port `5005`, protocol `HTTP`
