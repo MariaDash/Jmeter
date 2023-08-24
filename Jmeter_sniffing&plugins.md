@@ -26,3 +26,7 @@ Go to Privacy & Security --> Certificates --> View Certificates--> lokk for `Aut
 9. Add `Summary Report`
 10. Add `View Results Tree`
 11. Check that `Retrieve All Embedded Resources` check box is checked in every request
+# Jmeter Plugins to use most:
++ Custom Thread Groups (Stepping Thread Group)
++ HTTP Raw Request
+  
