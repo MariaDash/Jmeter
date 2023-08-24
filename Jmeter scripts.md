@@ -37,4 +37,4 @@ vars.put("token", auth_token);
 + Add View Results Tree and run
 + See the results
 + Add Summary Report       
-So on so forth see [Report]() and [.jmx file]()                
+So on so forth see [Summary Report]() and [.jmx file](https://github.com/MariaDash/Jmeter/blob/main/Script.jmx)                
