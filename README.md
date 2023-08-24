@@ -1,6 +1,6 @@
 # [Jmeter Homework](https://github.com/MariaDash/Jmeter/blob/main/Jmeter_homework.md)
 # [Jmeter Sniffing&Plugins](https://github.com/MariaDash/Jmeter/blob/main/Jmeter_sniffing&plugins.md)
-# [Jmeter Scripts]()
+# [Jmeter Scripts](https://github.com/MariaDash/Jmeter/blob/main/Jmeter%20scripts.md)
 # Jmeter Common features:
 ## 1. Open `jmeter.bat` file to open Jmeter.
 ## 2. Threade Group
