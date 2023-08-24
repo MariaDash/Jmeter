@@ -2,10 +2,10 @@
 + Make a script with listed endpoints
 + Give a load of 50, 250, 500 threads.
 + Jmeter settings, upload the .jmx file and summary report to git.
-[Settings]()
-[Summary report]()
++ [Settings]()
++ [Summary report]()
 
-http://5.75.203.123:5005
++ http://5.75.203.123:5005
 
 1) http://5.75.203.123:5005/get_method
 ```
