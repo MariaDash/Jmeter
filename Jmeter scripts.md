@@ -30,10 +30,13 @@ vars.put("token", auth_token);
 ### Additing `new data` request
 + Method POST
 + PATH: /new_data
-+ Parameters: `authtoken`: `${token}`
-              `name`: `Mariia`
-              `age`: `35`
-              `salary`:`1500`
++ Parameters:
+  ```
+  authtoken: ${token}
+  name`: `Mariia
+  age: 35
+  salary:1500
+  ```
 + Add View Results Tree and run
 + See the results
 + Add Summary Report       
