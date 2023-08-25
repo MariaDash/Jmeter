@@ -35,7 +35,7 @@ Resp.
    'salary': [salary, str(salary*2), str(salary*3)]}
 
 Actions:
-1) Get the value from the 'name' field from Respose and pass it to the name field of the request http://162.55.220.72:5005/new_data
+1) Get the value from the 'name' field from Respose and pass it to the name field of the request http://162.55.220.72:5005/test_pet_info
 
 ===================
 
