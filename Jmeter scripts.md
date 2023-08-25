@@ -32,7 +32,7 @@ vars.put("token", auth_token);
 + PATH: /new_data
 + Parameters:
   ```
-  authtoken: ${token}
+  auth_token: ${token}
   name: Mariia
   age: 35
   salary:1500
