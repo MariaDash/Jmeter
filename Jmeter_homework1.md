@@ -1,4 +1,4 @@
-# Jmeter Homework
+# Jmeter Homework 1
 1. Make a script with listed endpoints
 2. Give a load of 50, 250, 500 threads.
 3. Jmeter settings, upload the .jmx file and summary report to git.
