@@ -13,7 +13,7 @@
 10. HTTP Request aka login --> Add --> Post Processors --> JSON Extractor
 11. Open JSON Extractor-->
 + Add Name of created variables: `token`
-+ Add JSON Path expressions: `$token`
++ Add JSON Path expressions: `$.token`
 + Match No. : `1`
 12. Sending a variable to the environment:
 + Thread Group    --> Add --> Assertions --> BeanShell Assertion --> `${__setProperty(token,${token})}`
