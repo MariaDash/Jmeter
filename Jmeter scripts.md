@@ -33,7 +33,7 @@ vars.put("token", auth_token);
 + Parameters:
   ```
   authtoken: ${token}
-  name`: `Mariia
+  name: Mariia
   age: 35
   salary:1500
   ```
