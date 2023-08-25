@@ -65,6 +65,7 @@ Tests:
 
 
 Exercise ***
+
 0) Learn how Response Assertion works.
 1) Make an Assertion to check status code 200
 2) Make an Assertion to check 'daily_food':weight * 0.012
@@ -90,6 +91,7 @@ Resp.
 ```
 Tests:
 Exercise ***
+
 0) Learn how Response Assertion works.
 1) Make an Assertion to check status code 200
 2) Make an Assertion to check 'salary': salary
