@@ -1,4 +1,4 @@
-# Jmeter P 2
+# Jmeter Part 2
 # [Settings](https://github.com/MariaDash/Jmeter/blob/main/hw2.jmx)
 # [Summary](https://github.com/MariaDash/Jmeter/blob/main/summary_hw2.csv)
 
