@@ -2,7 +2,7 @@
 1. Make a script with listed endpoints
 2. Give a load of 50, 250, 500 threads.
 3. Jmeter settings, upload the .jmx file and summary report to git.
-+ [Settings](https://github.com/MariaDash/Jmeter/blob/main/HW1.jmx)
++ [Settings](https://github.com/MariaDash/Jmeter/blob/main/Part1_settings.jmx)
 + [Summary report_50](https://github.com/MariaDash/Jmeter/blob/main/summary_50.csv)
 + [Summary report_250](https://github.com/MariaDash/Jmeter/blob/main/summary_250.csv)
 + [Summary report_500](https://github.com/MariaDash/Jmeter/blob/main/summary_500.csv)
