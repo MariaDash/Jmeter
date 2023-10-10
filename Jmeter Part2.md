@@ -1,6 +1,6 @@
 # Jmeter Part 2
-# [Settings](https://github.com/MariaDash/Jmeter/blob/main/hw2.jmx)
-# [Summary](https://github.com/MariaDash/Jmeter/blob/main/summary_hw2.csv)
+# [Settings](https://github.com/MariaDash/Jmeter/blob/main/Part2_settings.jmx)
+# [Summary](https://github.com/MariaDash/Jmeter/blob/main/summary_Part2.csv)
 
 ## 1) http://162.55.220.72:5005/user_info
 ```
